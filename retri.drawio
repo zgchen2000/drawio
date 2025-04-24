@@ -180,6 +180,12 @@
             <mxPoint x="720" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AqevQCCf0CBJSamrauh9-70" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=0;endArrow=none;endFill=1;" edge="1" parent="1" source="AqevQCCf0CBJSamrauh9-69" target="AqevQCCf0CBJSamrauh9-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqevQCCf0CBJSamrauh9-69" value="etcd" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="625" y="471.5" width="95" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
